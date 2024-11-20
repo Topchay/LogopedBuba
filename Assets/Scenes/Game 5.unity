@@ -2824,12 +2824,12 @@ MonoBehaviour:
   frukty: {fileID: 1522613927}
   levelBar: {fileID: 454655752}
   daleeButton: {fileID: 197469394}
-  audioIntro: {fileID: 8300000, guid: bc5d630fa2bc1344f94d1c801f6a68f5, type: 3}
+  audioIntro: {fileID: 8300000, guid: cb143da24630ae048b11436e1de7ad9f, type: 3}
   audioWin: {fileID: 8300000, guid: 0919b2967d6be21428c4483333cd8b47, type: 3}
   audioLose: {fileID: 8300000, guid: 57bfc0a5ead746e419f453c12832797c, type: 3}
   audioFrukty:
   - {fileID: 8300000, guid: 26738437fc28411488d48c4fc7cab636, type: 3}
-  - {fileID: 8300000, guid: 26738437fc28411488d48c4fc7cab636, type: 3}
+  - {fileID: 8300000, guid: 78038d6aba079af42ac759c93bbf8a23, type: 3}
   - {fileID: 8300000, guid: 9adc08c02f6c25e449058985242df3fc, type: 3}
   - {fileID: 8300000, guid: 56a9dde5a851db44cb90dec92ed07761, type: 3}
   - {fileID: 8300000, guid: 682c70ce2f6976d4e9cf44f0c975f1b6, type: 3}
